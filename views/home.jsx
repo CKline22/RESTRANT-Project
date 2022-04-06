@@ -7,7 +7,7 @@ function home () {
           <main>
               <h1>REST-Rant</h1>
               <div>
-                    <img src="/images/chia-fruit-drink.jpg" alt="chia fruit shake" with="600" height="600" />
+                    <img id="images" src="/images/chia-fruit-drink.jpg" alt="chia fruit shake"/>
                     <div>
                     Photo by <a href="https://unsplash.com/@cravethebenefits?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brenda Godinez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
